@@ -7,7 +7,7 @@
 - ✨Contribue if possible
 
 ## Login Credentials (Explore website)
-    View credentials.txt file for credentials and explore the demo 
+    View credentials.txt file for credentials
 
 ## Features
 
@@ -24,5 +24,16 @@
 - Goto http://localhost/phpmyadmin and import UnityBankDB.sql file
 - Hit to http://localhost/SwiftBank or it can be your directory name
 
+## SNAPSHOTS: 
+<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/bg.jpg">
+<br>
+<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/bg.jpg">
+<br>
+<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/bg.jpg">
+<br>
+<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/bg.jpg">
+<br>
+<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/bg.jpg">
+<br>
 #### Note
 All the *.sh files are only use to start localserver on linux based machine.
