@@ -1,5 +1,5 @@
 # UNITY BANK
-<h3>~ by Vaidehi Mahyavanshi</h3>
+
 ![GitHub forks](https://img.shields.io/github/forks/viveknimbolkar/SwiftBank?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/viveknimbolkar/SwiftBank?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/viveknimbolkar/SwiftBank?style=plastic)
 
 
