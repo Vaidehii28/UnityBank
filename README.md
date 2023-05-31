@@ -1,12 +1,9 @@
-# Swift Bank
-## The free and open source bank management system
+# UNITY BANK
 
 ![GitHub forks](https://img.shields.io/github/forks/viveknimbolkar/SwiftBank?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/viveknimbolkar/SwiftBank?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/viveknimbolkar/SwiftBank?style=plastic)
 
-This is my first php project. You can make changes and make a good working BMS. I found that lot's of new bank have the problem. They don't have a good working management system. So together we will make them help. 
 
-- Take into consideration that it is not a actual Swift Bank 
-- See more on my youtube channel
+- Take into consideration that it is not a actual Unity Bank 
 - ✨Contribue if possible
 
 ## Login Credentials (Explore website)
