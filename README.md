@@ -25,17 +25,17 @@
 - Hit to http://localhost/SwiftBank or it can be your directory name
 
 ## SNAPSHOTS: 
-<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/1.jpg">
+<img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/1.jpg">
 <br>
-<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/2.jpg">
+<img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/2.jpg">
 <br>
-<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/3.jpg">
+<img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/3.jpg">
 <br>
-<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/4.jpg">
+<img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/4.jpg">
 <br>
-<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/5.jpg">
+<img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/5.jpg">
 <br>
-<img src="https://github.com/Vaidehii28/Twitter_sentiment_analysis/blob/main/images/6.jpg">
+<img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/6.jpg">
 <br>
 #### Note
 All the *.sh files are only use to start localserver on linux based machine.
