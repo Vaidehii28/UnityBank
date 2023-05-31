@@ -21,7 +21,7 @@
 ## Installation
 
 - Setup XAMPP server
-- Goto http://localhost/phpmyadmin and import SwiftBankDB.sql file
+- Goto http://localhost/phpmyadmin and import UnityBankDB.sql file
 - Hit to http://localhost/SwiftBank or it can be your directory name
 
 #### Note
