@@ -1,6 +1,6 @@
 # UNITY BANK
 
-![GitHub forks](https://img.shields.io/github/forks/viveknimbolkar/SwiftBank?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/viveknimbolkar/SwiftBank?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/viveknimbolkar/SwiftBank?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/viveknimbolkar/UnityBank?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/viveknimbolkar/SwiftBank?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/viveknimbolkar/SwiftBank?style=plastic)
 
 
 - Take into consideration that it is not a actual Unity Bank 
