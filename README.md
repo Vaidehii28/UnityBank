@@ -22,7 +22,7 @@
 
 - Setup XAMPP server
 - Goto http://localhost/phpmyadmin and import UnityBankDB.sql file
-- Hit to http://localhost/SwiftBank or it can be your directory name
+- Hit to http://localhost/UnityBank or it can be your directory name
 
 ## SNAPSHOTS: 
 <img src="https://github.com/Vaidehii28/UnityBank/blob/main/images/1.jpg">
